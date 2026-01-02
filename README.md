@@ -1,4 +1,4 @@
-# Hi there 👋 I'm bigicode
+# Hi there 👋 I'm Mrproducer_cob
 
 <h2 align="center">Full-Stack Developer | Open-Source Enthusiast | Cybersecurity Advocate</h2>
 
@@ -7,10 +7,10 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/mrproducer_cob?igsh=MTMzbTZqcGg2cWkzNw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/yourphonenumber">
+  <a href="https://wa.me/+255621637218">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://tryhackme.com/p/yourprofile">
@@ -32,12 +32,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigicode&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigicode&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</div>
 
 ---
 
