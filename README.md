@@ -37,8 +37,8 @@
 
 ### 🚀 Projects
 
-#### 🎯 Featured Project
-[![EIMS](https://placehold.co/800x300/2a2a2a/white?text=Project+Demo)](https://github.com/yourusername/project-repo)  
+#### 🎯EIMS
+[![EIMS](https://placehold.co/800x300/2a2a2a/white?text=EIMS + Project)](https://github.com/yourusername/project-repo)  
 **Description**: A brief description of your project.  
 **Tech**: Php, Html, Msql, Javascript.  
 
