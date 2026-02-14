@@ -40,10 +40,10 @@
 
 ### 🚀 Projects
 
-#### 🎯EIMS
-[![EIMS](https://placehold.co/800x300/2a2a2a/white?text=EIMS+Project)](https://github.com/yourusername/project-repo)  
-**Description**: A brief description of your project.  
-**Tech**: Php, Html, Msql, Javascript.  
+#### 🎯Educa-MLS
+[![Educa-MLS](https://placehold.co/800x300/2a2a2a/white?text=EIMS+Project)](https://github.com/bigicode/Educa-MLS)  
+**Description**: Educa-MLS is a system that operates to help schools runs their activities Digitaly records and save all activites that perfomed on School  
+**Tech**: Php, Html, Msql, Javascript, Css.  
 
 #### 🔧 Tool/Library
 [![Library Name](https://placehold.co/800x300/1e1e1e/white?text=Open-Source+Library)](https://github.com/yourusername/library-repo)  
@@ -54,7 +54,7 @@
 
 ### 📫 Let's Connect
 - 📧 Email: **emmanuelchacha2468@gmail.com**  
-- 🌐 Portfolio: **[yourwebsite.com](https://yourwebsite.com)**  
+<!-- 🌐 Portfolio: **[yourwebsite.com](https://yourwebsite.com)**--> 
 - 💬 Ask me about: **Web Dev, Frontend & Backend**  
 
 <div align="center">
