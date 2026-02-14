@@ -41,7 +41,7 @@
 ### 🚀 Projects
 
 #### 🎯Educa-MLS
-[![Educa-MLS](https://placehold.co/800x300/2a2a2a/white?text=EIMS+Project)](https://github.com/bigicode/Educa-MLS)  
+[![Educa-MLS](https://placehold.co/800x300/2a2a2a/white?text=Educa-MLS+Project)](https://github.com/bigicode/Educa-MLS)  
 **Description**: Educa-MLS is a system that operates to help schools runs their activities Digitaly records and save all activites that perfomed on School  
 **Tech**: Php, Html, Msql, Javascript, Css.  
 
